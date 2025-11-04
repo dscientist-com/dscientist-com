@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **John Doe**  
+# 👋 Hi, I'm **Atif Majeed**  
 ### *Data Scientist | Machine Learning Engineer | AI Practitioner | Former Web Developer*  
 
 🚀 Passionate about transforming data into intelligent solutions through **Machine Learning**, **AI**, and **Data Science**.  
@@ -79,10 +79,10 @@ I thrive on:
 ---
 
 ## 📫 Contact Me  
-📧 **[johndoe@johndoe.com](mailto:johndoe@johndoe.com)**  
-🌐 **[Portfolio Website](https://johndoe.com)**  
-💼 **[LinkedIn](#)**  
-🐙 **[GitHub](https://github.com/johndoe)**  
+📧 **[johndoe@johndoe.com](mailto:atif@dscientist.com)**  
+🌐 **[Portfolio Website](https://dscientist.com)**  
+💼 **[LinkedIn]([#](https://www.linkedin.com/in/majeedatif/))**  
+🐙 **[GitHub](https://github.com/dscientist-com)**  
 
 ---
 
