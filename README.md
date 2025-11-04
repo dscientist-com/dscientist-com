@@ -38,7 +38,7 @@ I thrive on:
 `Tableau` • `Power BI` • `Plotly` • `Dash`  
 
 **Web Frameworks & Development:**  
-`Django` • `Flask` • `React` • `PHP` • `WordPress`  
+`Django` • `React` • `PHP` • `WordPress`  
 
 **Database Management:**  
 `MySQL` • `PostgreSQL` • `SQLite`  
@@ -79,7 +79,7 @@ I thrive on:
 ---
 
 ## 📫 Contact Me  
-📧 **[johndoe@johndoe.com](mailto:atif@dscientist.com)**  
+📧 **[atif@dscientist.com](mailto:atif@dscientist.com)**  
 🌐 **[Portfolio Website](https://dscientist.com)**  
 💼 **[LinkedIn]([#](https://www.linkedin.com/in/majeedatif/))**  
 🐙 **[GitHub](https://github.com/dscientist-com)**  
