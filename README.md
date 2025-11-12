@@ -110,6 +110,8 @@ Today, I treat every project like a **product**:
 <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white">
 
 
 
