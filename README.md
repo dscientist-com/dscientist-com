@@ -105,6 +105,12 @@ Today, I treat every project like a **product**:
 <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white">
 <img src="https://img.shields.io/badge/Matplotlib-005CBA?logo=matplotlib&logoColor=white">
 <img src="https://img.shields.io/badge/Seaborn-0E4C92?logo=seaborn&logoColor=white">
+<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white">
+
 
 
 
