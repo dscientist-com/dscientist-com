@@ -112,6 +112,11 @@ Today, I treat every project like a **product**:
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white">
+
 
 
 
