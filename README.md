@@ -102,6 +102,10 @@ Today, I treat every project like a **product**:
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-005CBA?logo=matplotlib&logoColor=white">
+<img src="https://img.shields.io/badge/Seaborn-0E4C92?logo=seaborn&logoColor=white">
+
 
 
 
