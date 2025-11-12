@@ -86,12 +86,13 @@ Today, I treat every project like a **product**:
 <!-- Skill Icons -->
 <p>
   <!-- <img src="https://skillicons.dev/icons?i=python,r,cpp,php,js,ts,html,css,react,nodejs,express,bootstrap,tailwind,flask,django,sklearn,tensorflow,pytorch,opencv,git,github,sqlite,mysql,postgres,mongodb,aws,gcp,azure,docker,postman,tableau,vscode,pycharm,rstudio,figma" /> -->
-  ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/R-276DC3?logo=R&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/R-276DC3?logo=R&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
+
 
 </p>
 
