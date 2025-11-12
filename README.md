@@ -130,10 +130,10 @@ Today, I treat every project like a **product**:
 - **Data:** Pandas, NumPy, SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
 - **ML/DL:** Scikit-learn, TensorFlow, Keras, PyTorch
 - **Visualization:** Tableau, Matplotlib, Seaborn
-- **Web/App:** Flask, Django, React, Node.js, TailwindCSS, Bootstrap
-- **Cloud:** AWS, GCP, Azure
+- **Web/App:** Django, React, Node.js, TailwindCSS, Bootstrap
+- **Cloud:** AWS, GCP
 - **Big Data:** Apache Spark, Hadoop
-- **Dev:** Git, GitHub, Jupyter, VS Code, PyCharm, RStudio
+- **Dev:** Git, GitHub, Jupyter, VS Code
 
 ---
 
