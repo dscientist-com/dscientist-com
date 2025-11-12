@@ -98,6 +98,11 @@ Today, I treat every project like a **product**:
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">
+
 
 
 
