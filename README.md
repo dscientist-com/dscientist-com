@@ -51,7 +51,7 @@ Today, I treat every project like a **product**:
 
 ### 1) FaceVision — AI Facial Recognition System
 **Repo:** <a href="https://github.com/dscientist-com/FaceVision">dscientist-com/FaceVision</a>  
-**Stack:** Python, OpenCV, face-recognition, Flask API, React UI, TailwindCSS  
+**Stack:** Python, OpenCV, face-recognition, FastAPI, React UI, TailwindCSS  
 **What it does:** Real-time face detection & recognition via **live camera**, **image upload**, and **video** modes.  
 **Highlights:**
 - Multi-input pipeline with preprocessing, encoding, and matching
@@ -85,7 +85,7 @@ Today, I treat every project like a **product**:
 
 <!-- Skill Icons -->
 <p>
-  <!-- <img src="https://skillicons.dev/icons?i=python,r,cpp,php,js,ts,html,css,react,nodejs,express,bootstrap,tailwind,flask,django,sklearn,tensorflow,pytorch,opencv,git,github,sqlite,mysql,postgres,mongodb,aws,gcp,azure,docker,postman,tableau,vscode,pycharm,rstudio,figma" /> -->
+  <!-- <img src="https://skillicons.dev/icons?i=python,r,cpp,php,js,ts,html,css,react,nodejs,express,bootstrap,tailwind,django,sklearn,tensorflow,pytorch,opencv,git,github,sqlite,mysql,postgres,mongodb,aws,gcp,azure,docker,postman,tableau,vscode,pycharm,rstudio,figma" /> -->
   <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/R-276DC3?logo=R&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
@@ -164,4 +164,4 @@ Today, I treat every project like a **product**:
 
 ---
 
-<sub>Keywords: Python Data Science Portfolio, Machine Learning Portfolio, From Web Developer to Data Scientist, Full‑Stack Data Science, Flask ML Deployment, Real‑Time AI, Tableau Dashboards, MLOps.</sub>
+<sub>Keywords: Python Data Science Portfolio, Machine Learning Portfolio, From Web Developer to Data Scientist, Full‑Stack Data Science,FastAPI, ML Deployment, Real‑Time AI, Tableau Dashboards, MLOps.</sub>
